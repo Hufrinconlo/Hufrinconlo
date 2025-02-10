@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning c++ to make high performance apps
+🌱 I’m currently learning c++ to make high performance apps
 
-- ⚡ Fun fact: I suck at this :D
+⚡ Fun fact: I suck at this :D
 -->
